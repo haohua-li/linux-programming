@@ -4,3 +4,4 @@
 
 ### LinUX 入门
 《Linux 就应该这么学》 (https://www.linuxprobe.com/)
+《Linux 鸟哥的私房菜》https://linux.vbird.org/linux_basic/centos7/
